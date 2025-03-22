@@ -32,7 +32,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git@github.com:stelioskarydakis/margera-backend.git
+   git clone git@github.com:stelioskarydakis/margera-backend.git
 
    ```
 
