@@ -38,11 +38,17 @@ Ensure you have the following installed:
 
 2. Navigate to the project directory:
 
+   ```bash
    cd margera-backend
+
+   ```
 
 3. Install dependencies:
 
+   ```bash
    npm install
+
+   ```
 
 4. Create an .env file
 
@@ -55,4 +61,7 @@ Ensure you have the following installed:
 
 5. Start the server:
 
+   ```bash
    npm run dev
+
+   ```
