@@ -65,3 +65,7 @@ Ensure you have the following installed:
    npm run dev
 
    ```
+
+6. Visit in a browser at
+
+   http://localhost:8080
